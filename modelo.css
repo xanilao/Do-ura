@@ -1,0 +1,223 @@
+body{
+  background-image: url(docura/imagens/fundo.jpeg);
+  background-repeat: no-repeat;
+  background-size: auto;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#nome {
+  margin-left: -90%;
+  height: 10%;
+  color: white;
+  font-size: 40px;
+  font-style: oblique;
+}
+
+.menu {
+  width: 100%;
+  height: 50px;
+  background-color: #1a1a1a;
+  font-family: Roboto;
+  box-shadow: 0px 0px 100px 5px;
+}
+
+.menu ul {
+  text-align: center;
+  list-style: none;
+  position: relative;
+  padding: 0;
+}
+
+.menu ul li ul {
+  width: 100%;
+}
+
+.menu ul li {
+  display: inline-block;
+  width: 400px;
+  padding: 0px 10px;
+  line-height: 25px;
+  padding: 0;
+  position: relative;
+}
+
+.menu ul li a {
+  text-align: center;
+  font-size: 30px;
+}
+
+.menu a {
+  padding: 12.5px;
+  display: block;
+  text-decoration: none;
+  color: #666666;
+}
+
+.menu ul ul {
+  background-color: black;
+  position: absolute;
+  visibility: hidden;
+}
+
+.menu ul ul li {
+  float: none;
+  border-bottom: solid 1px #262626;
+}
+
+.menu ul li:hover ul {
+  visibility: visible;
+}
+
+.menu ul ul a:hover {
+  transition: all 0.4s ease;
+  background-color: #262626;
+  color: white;
+}
+
+.menu a:hover {
+  transition: all 0.4s ease;
+  color: white;
+}
+
+.menu ul ul li {
+  background-color: #1a1a1a;
+}
+
+.menu ul ul a {
+  font-size: 30px;
+}
+
+.menu ul ul li a:hover ul ul ul {
+  visibility: visible;
+}
+h1 {
+  text-align: center;
+}
+
+#gifs {
+  text-align: center;
+}
+
+p{
+  
+  position: relative;
+
+}
+#copyright{
+  text-align: center;
+}
+
+a{
+  text-align: center;
+  cursor: pointer;
+  text-size: 30px;
+}
+
+p{
+
+}
+
+footer{
+  width: 100%;
+  height: 70px;
+  background-color: #1a1a1a;
+  font-family: Roboto;
+  box-shadow: 0px 0px 100px 5px;
+}
+
+#github{
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
+
+#copyright{
+  color: white;
+  font-size: 15px;
+}
+
+h2{
+  text-align: center;
+  backface-visibility: unset;
+}
+
+h3 {
+  color: white;
+  text-align: center;
+  font-size: 35px;
+  background-color:#1a1a1a;
+  width: 30%;
+  border-radius: 15px;
+  margin-left: 37%;
+}
+
+div{
+ text-align: center;
+}
+
+#mapa {
+  border-width: medium;
+}
+
+#tudogostoso{
+  text-align: right;
+  color: white;
+}
+
+a{
+  color: white;
+}
+
+#tudoreceitas{
+  text-align: left;
+  color: white;
+}
+
+#sobre{
+  background-color:#DCDCDC;
+  width: 30%;
+  height: 20%;
+  border: solid 2px;
+  border-radius: 10px;
+  border-color: white;
+  margin-left: 55%;
+  margin-top: -10%;
+}
+
+#receitas{
+  background-color: #DCDCDC;
+  width: 30%;
+  height: 20%;
+  border: solid 2px;
+  border-radius: 5px;
+  border-color: white;
+  margin-left: 20%;
+}
+
+#destaque {
+  color: red;
+}
+
+#textop{
+  background-color: #DCDCDC;
+  width: 1000px;
+  text-align: center;
+  border-radius: 15px;
+  margin-left: 13%;
+}
+
+#cidade{
+  width: 50%;
+  margin-left: 25%;
+}
+
+#nome{
+  color: white;
+  font-size: 40px;
+  background-color:#1a1a1a;
+  
+}
