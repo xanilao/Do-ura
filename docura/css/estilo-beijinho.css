@@ -13,15 +13,24 @@ p {
 }
 
 h2 {
-	font-family: "tahoma", Arial, sans-serif;
-	font-size: 24px;
-	margin-top: 0px;
-	padding-top: 5px;
+	font-size: 40px;
 	color: red;
-	padding-left: 48%;
-	text-align: 15px;
+	text-align: left;
 
 }
+
+#titulo{
+	font-size: 40px;
+	color: red;
+	text-align: left;
+
+}
+
+#modo{
+	font-size:  30px;
+}
+
+
 
 h3 {
 	margin: 0 auto;
@@ -275,4 +284,16 @@ a{
 
 #rapadura{
 	font-size: 10px;
+}
+
+#fazer{
+	font-size: 30px;
+}
+
+#textob{
+	font-size: 10px;
+}
+
+#sla{
+	font-size: 30px;
 }

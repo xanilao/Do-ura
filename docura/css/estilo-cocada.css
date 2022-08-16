@@ -159,6 +159,7 @@ footer {
 	position: relative;
 	bottom: 0;
 	padding: 5px 0 10px 0;
+	border-radius: 15px;
 }
 
 footer ul {
@@ -205,4 +206,9 @@ address {
 
 #cocada{
 	font-size: 10px;
+}
+
+#titulo{
+	font-size: 40px;
+	color: red;
 }
