@@ -1,7 +1,12 @@
 body{
+  margin: 0;
+  padding: 0;
   background-image: url(docura/imagens/fundo.jpeg);
   background-repeat: no-repeat;
-  background-size: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 * {
@@ -184,8 +189,8 @@ a{
   border: solid 2px;
   border-radius: 10px;
   border-color: white;
-  margin-left: 55%;
-  margin-top: -10%;
+  margin-left: 37%;
+  margin-top: 2%;
 }
 
 #receitas{
@@ -195,7 +200,7 @@ a{
   border: solid 2px;
   border-radius: 5px;
   border-color: white;
-  margin-left: 20%;
+  margin-left: 37%;
 }
 
 #destaque {
@@ -204,10 +209,10 @@ a{
 
 #textop{
   background-color: #DCDCDC;
-  width: 1000px;
+  width: 50%;
   text-align: center;
   border-radius: 15px;
-  margin-left: 13%;
+  margin-left: 25%;
 }
 
 #cidade{
