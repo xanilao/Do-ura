@@ -133,7 +133,7 @@ header {
 	width: 300px;
 	float: right;
 	margin: 0 auto;
-	margin-top: -440px;
+	margin-top: -490px;
 	padding: 0;
 	text-align: right;
 }
@@ -167,7 +167,7 @@ footer {
 	min-width: 972px;
 	height: 70px;
 	color: #000000;
-	position: absolute;
+	position: relative;
 	bottom: 0;
 	padding: 5px 0 10px 0;
 	border-radius: 15px;
@@ -240,10 +240,10 @@ a{
 	color: white;
 	background-color: black;
 	border-radius: 15px;
-	width: 20%;
+	width: 30%;
 	height: 40px;
 	border-color: white 5px;
-	margin-left: 40%;
+	margin-left: 35.9%;
 	font-family: "tahoma", Arial, sans-serif;
 }
 
@@ -260,8 +260,9 @@ a{
 
 #descriçao{
 	font-size: 10px;
+	text-align: left;
+	margin-left: 15%;
 }
-
 #creditos{
 	background-color: black;
 	color: white;
@@ -270,7 +271,7 @@ a{
 	border-radius: 15px;
 	margin-left: 45%;
 	font-size: 30px;
-	position: absolute;
+	position: relative;
 }
 
 #agradecimentos{
@@ -285,6 +286,8 @@ a{
 
 #rapadura{
 	font-size: 10px;
+	text-align: left;
+	margin-left: 15%;
 }
 
 #fazer{
@@ -293,6 +296,7 @@ a{
 
 #textob{
 	font-size: 10px;
+	text-align: left;
 }
 
 #sla{

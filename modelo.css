@@ -145,7 +145,6 @@ footer{
   font-size: 15px;
 }
 
-
 h2{
   text-align: center;
   backface-visibility: unset;
@@ -186,18 +185,18 @@ a{
 #sobre{
   background-color:#DCDCDC;
   width: 30%;
-  height: 20%;
+  height: 22%;
   border: solid 2px;
   border-radius: 10px;
   border-color: white;
   margin-left: 37%;
-  margin-top: 2%;
+  margin-top: 0.5%;
 }
 
 #receitas{
   background-color: #DCDCDC;
   width: 30%;
-  height: 20%;
+  height: 22%;
   border: solid 2px;
   border-radius: 5px;
   border-color: white;
@@ -219,6 +218,7 @@ a{
 #cidade{
   width: 50%;
   margin-left: 25%;
+  margin-top: 1%;
 }
 
 #nome{
@@ -226,4 +226,20 @@ a{
   font-size: 40px;
   background-color:#1a1a1a;
   
+}
+
+#receitas2{
+  margin-top: 2%;
+}
+
+#receitap{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 1%;
+}
+
+#destaque{
+  text-align: center;
+  font-size: 25px;
+  margin-top: 1%;
 }

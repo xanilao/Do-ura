@@ -118,9 +118,7 @@ header {
 	display: block;
 }
 
-/* Corpo da Página */
 
-/* Barra Lateral */
 
 #trabalhos {
 	width: 300px;
@@ -142,13 +140,12 @@ header {
 	transform: .04s ease-out;
 }
 
-/* Corpo da Página */
+
 
 .menu li:hover ul {
 	display: block;
 }
 
-/* rodapé */
 
 footer {
 	background-color:#B5B5B5;
